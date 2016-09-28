@@ -1,0 +1,17 @@
+C:\Users\celik.gumusdag\Desktop\Volki\bin\Debug\chromedriver.exe
+C:\Users\celik.gumusdag\Desktop\Volki\bin\Debug\WebDriverScraping.exe
+C:\Users\celik.gumusdag\Desktop\Volki\bin\Debug\WebDriverScraping.pdb
+C:\Users\celik.gumusdag\Desktop\Volki\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\celik.gumusdag\Desktop\Volki\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\celik.gumusdag\Desktop\Volki\bin\Debug\WebDriver.dll
+C:\Users\celik.gumusdag\Desktop\Volki\bin\Debug\WebDriver.Support.dll
+C:\Users\celik.gumusdag\Desktop\Volki\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\Users\celik.gumusdag\Desktop\Volki\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\celik.gumusdag\Desktop\Volki\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+C:\Users\celik.gumusdag\Desktop\Volki\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\celik.gumusdag\Desktop\Volki\bin\Debug\WebDriver.xml
+C:\Users\celik.gumusdag\Desktop\Volki\bin\Debug\WebDriver.Support.pdb
+C:\Users\celik.gumusdag\Desktop\Volki\bin\Debug\WebDriver.Support.xml
+C:\Users\celik.gumusdag\Desktop\Volki\obj\Debug\WebDriverScraping.csprojResolveAssemblyReference.cache
+C:\Users\celik.gumusdag\Desktop\Volki\obj\Debug\WebDriverScraping.exe
+C:\Users\celik.gumusdag\Desktop\Volki\obj\Debug\WebDriverScraping.pdb
