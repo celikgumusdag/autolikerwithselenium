@@ -5,9 +5,7 @@ using System.IO;
 using System.Text;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
-using System;
-
-
+using System.Linq;
 
 namespace WebDriverTest
 {
@@ -20,13 +18,18 @@ namespace WebDriverTest
         {
 
             string link;
-            var fileStream = new FileStream(@"c:\file.txt", FileMode.Open, FileAccess.Read);
-            using (var streamReader = new StreamReader(fileStream, Encoding.UTF8))
+            int counter = 0;
+
+            // Read the file and display it line by line.
+            System.IO.StreamReader file =
+               new System.IO.StreamReader(@"c:\file.txt");
+            while ((link = file.ReadLine()) != null)
             {
-                link = streamReader.ReadToEnd();
                 Console.WriteLine(link + " likelanıyor.");
                 AutoLiker(link);
+                counter++;
             }
+
             System.Threading.Thread.Sleep(5000);
             WebDriver.Dispose();
         }

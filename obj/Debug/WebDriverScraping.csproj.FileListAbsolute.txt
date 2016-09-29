@@ -39,3 +39,11 @@ C:\Users\celik.gumusdag\Desktop\BitTurk Auto Liker\bin\Debug\WebDriverScraping.p
 C:\Users\celik.gumusdag\Desktop\BitTurk Auto Liker\bin\Debug\WebDriver.dll
 C:\Users\celik.gumusdag\Desktop\BitTurk Auto Liker\bin\Debug\WebDriver.xml
 C:\Users\celik.gumusdag\Desktop\BitTurk Auto Liker\obj\Debug\WebDriverScraping.csprojResolveAssemblyReference.cache
+C:\Users\celik.gumusdag\Desktop\autolikerwithselenium\obj\Debug\WebDriverScraping.exe
+C:\Users\celik.gumusdag\Desktop\autolikerwithselenium\obj\Debug\WebDriverScraping.pdb
+C:\Users\celik.gumusdag\Desktop\autolikerwithselenium\bin\Debug\chromedriver.exe
+C:\Users\celik.gumusdag\Desktop\autolikerwithselenium\bin\Debug\WebDriverScraping.exe
+C:\Users\celik.gumusdag\Desktop\autolikerwithselenium\bin\Debug\WebDriverScraping.pdb
+C:\Users\celik.gumusdag\Desktop\autolikerwithselenium\bin\Debug\WebDriver.dll
+C:\Users\celik.gumusdag\Desktop\autolikerwithselenium\bin\Debug\WebDriver.xml
+C:\Users\celik.gumusdag\Desktop\autolikerwithselenium\obj\Debug\WebDriverScraping.csprojResolveAssemblyReference.cache
